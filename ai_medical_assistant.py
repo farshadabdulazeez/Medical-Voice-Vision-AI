@@ -74,3 +74,6 @@ if __name__ == "__main__":
     image_path = "acne.jpg"
 
     analyze_image_with_groq(image_path, query, model)
+
+
+#//test//
