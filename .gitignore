@@ -172,3 +172,9 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# macOS system file
+.DS_Store
+
+# Ignore license file (if not needed in repo)
+LICENSE
